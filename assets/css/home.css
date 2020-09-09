@@ -1,0 +1,61 @@
+*{
+         margin: 0px;
+         padding: 0px;
+}
+body{
+         height: 86vh;
+         background-position: center;
+         background-repeat: no-repeat;
+         width: 100vw;
+         background: url(https://content.jdmagicbox.com/comp/ludhiana/p2/0161px161.x161.140707111353.n3p2/catalogue/guru-nanak-dev-engineering-college-gill-park-ludhiana-colleges-3yprn3b.jpg);
+}
+input{
+         height: 40px;
+         width: 50%;
+         font-size: 20px;
+         color: white;
+         margin-top: 3px;
+         background: linear-gradient(34deg,red,rgb(247, 232, 232) 5%,blue);
+         display: grid;
+         margin-left: 34%;
+         
+         border-radius: 12px;
+         /* margin-top: -100px; */
+
+}
+input placeholder{
+         color: white;
+}
+#para{
+         font-size: 50px;
+         color: rgb(253, 76, 6);
+         text-align: center;
+         height: 100px;
+         width: 100%;
+         text-transform: capitalize;
+         background: linear-gradient(45deg,rgb(247, 222, 222),green 50%) ;
+}
+.btn{
+         margin-left: 55%;
+         width: 100px;
+         height: 30px;
+         text-align: center;
+         color: white;
+         background: linear-gradient(rgb(250, 154, 154),rgb(161, 161, 240));
+         margin-top: 10px;
+         border-radius: 5px;
+
+
+
+}
+#category{
+    height: 20px; 
+    color: crimson;  
+    width: auto;  
+    background: ghostwhite;
+    margin-left: 45%;
+    margin-top: -20px;
+}
+#category option{
+         height: 30px;
+}
